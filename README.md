@@ -1,2 +1,2 @@
 # java_prog
-here is a  simple java calculator 
+A program to calculate board exam result in java 
